@@ -1,4 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Diego 👋
+
+💻 Desenvolvedor Front-End em evolução
+🎨 HTML • CSS • JavaScript
+🚀 Construindo projetos e evoluindo todos os dias
+
+## 📚 Atualmente estudando
+
+* HTML semântico
+* CSS moderno
+* Responsividade
+* JavaScript
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor Front-End.
+
 
 <!--
 **diego181202/diego181202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
